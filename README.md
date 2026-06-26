@@ -1,5 +1,5 @@
 Crochet Co. — Handmade Crochet Bags & Outfits
-
+Live Demo: https://crochetbywura.myshopify.com
 A full-stack e-commerce web application built to showcase and sell handmade crochet products — bags, outfits, and accessories. This project was built as part of my self-directed journey into programming, applying Python web development fundamentals to a real-world style online store.
 
 Overview
